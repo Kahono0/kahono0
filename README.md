@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Now Playing — Spotify 🎧
 <p>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31egd4mrfswhjgh63g4e4afaybiu&redirect=true">
