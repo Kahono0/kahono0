@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31egd4mrfswhjgh63g4e4afaybiu&cover_image=true&theme=compact&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **kahono922/kahono922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
