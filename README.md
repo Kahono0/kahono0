@@ -1,3 +1,7 @@
+### Me
+- ⚡ Fun fact: It is physically impossible for pigs to look up into the sky.
+- 📫 [@0xff98](https://twitter.com/0xff98)
+
 ### Now Playing — Spotify 🎧
 <p>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31egd4mrfswhjgh63g4e4afaybiu&redirect=true">
