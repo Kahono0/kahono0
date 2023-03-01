@@ -1,11 +1,10 @@
 ### Me
 - ⚡ Fun fact: It is physically impossible for pigs to look up into the sky.
 
-Find me here 👇
-<br />
-<pre>
-        [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/0xff98)
-</pre>
+Find me here
+<br/>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/0xff98)
+
 
 
 ### Now Playing — Spotify 🎧
